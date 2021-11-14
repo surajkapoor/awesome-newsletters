@@ -423,7 +423,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ## Leadership
 
-- [Pointer.io](https://pointer.io/). A Reading Club For Software Developers.
+- [Pointer.io](http://pointer.io/). A Reading Club For Software Developers.
 - [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
 - [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
 
